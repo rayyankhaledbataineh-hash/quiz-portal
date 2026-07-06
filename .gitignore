@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+
+# Runtime data (saved quizzes and grade history)
+data/
+
+# macOS
+.DS_Store
