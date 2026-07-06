@@ -6,7 +6,11 @@ Built as a project for my Programming 2 (OOP) course.
 
 ## Screenshots
 
-<img width="1470" height="956" alt="Screenshot 2026-07-05 at 11 32 05 PM" src="https://github.com/user-attachments/assets/a115b274-7921-4d6c-9163-a0d83fdf00b9" />
+<img width="888" height="697" alt="Screenshot 2026-07-05 at 11 49 37 PM" src="https://github.com/user-attachments/assets/346cc94c-df6d-416e-9c5d-3bb92da83f22" />
+
+<img width="895" height="694" alt="Screenshot 2026-07-05 at 11 51 43 PM" src="https://github.com/user-attachments/assets/af875712-efc6-4013-b4fa-c65627d8034b" />
+
+<img width="889" height="685" alt="Screenshot 2026-07-05 at 11 54 55 PM" src="https://github.com/user-attachments/assets/a4a1e2f7-b894-425a-a6e3-d6b199803d19" />
 
 ## Features
 
