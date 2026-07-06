@@ -6,7 +6,7 @@ Built as a project for my Programming 2 (OOP) course.
 
 ## Screenshots
 
-<!-- Add screenshots here: main menu (dark + light mode) and the quiz-taking screen -->
+<img width="1470" height="956" alt="Screenshot 2026-07-05 at 11 32 05 PM" src="https://github.com/user-attachments/assets/a115b274-7921-4d6c-9163-a0d83fdf00b9" />
 
 ## Features
 
